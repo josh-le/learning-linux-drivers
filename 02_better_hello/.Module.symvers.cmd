@@ -1,0 +1,1 @@
+savedcmd_/home/gump/programming/learning-linux-drivers/02_better_hello/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/gump/programming/learning-linux-drivers/02_better_hello/Module.symvers -n -T /home/gump/programming/learning-linux-drivers/02_better_hello/modules.order -i Module.symvers -e 
