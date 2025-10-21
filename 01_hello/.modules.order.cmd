@@ -1,0 +1,1 @@
+savedcmd_/home/gump/programming/learning-linux-drivers/01_hello/modules.order := {   echo /home/gump/programming/learning-linux-drivers/01_hello/hello.o; :; } > /home/gump/programming/learning-linux-drivers/01_hello/modules.order
